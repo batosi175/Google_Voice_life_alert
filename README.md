@@ -13,4 +13,7 @@ and used within the a raspberry pi on the raspbian os
 dependencies:
 the pygvoicelib library https://github.com/korylprince/pygvoicelib
 
+code:
+the components that i created where the text.py and the event_handler.py
+
 
